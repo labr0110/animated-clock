@@ -28,7 +28,6 @@ html {
   position: absolute;
   top: 29%;
   left: 143px;
-  z-index: 1030;
   animation: rotate 6s infinite linear;
 }
 
@@ -36,7 +35,6 @@ html {
   position: absolute;
   top: 20%;
   left: 143px;
-  z-index: 1000;
   animation: rotate 1s infinite linear;
 }
 
